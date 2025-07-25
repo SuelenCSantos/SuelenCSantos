@@ -1,7 +1,6 @@
 # Olá, meu nome é Suelen!
 ## Bem vindo ao meu perfil GitHub 👋
 #### - 📚 Sou estudante de Ciência da Computação;
-#### - 👩‍💼 Estou em busca de um estágio;
 #### - 👓 Tenho conhecimento em:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
